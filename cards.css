@@ -54,7 +54,7 @@ html {
       border-radius: 0;
     }
   
-    .cardGroup__card + .cardGroup__card {
+    .cardGroup__card {
       border-left: 1px solid #D7DBDD;
     }
   
